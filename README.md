@@ -37,8 +37,8 @@ For this project, i have worked on various domains like:
 
 ## 👀 Build Instructions 
 
-- Clone the Repository: `git clone https://github.com/harshkumarkhatri/Snapchat-Bottom-Navar-Option-5`
-- `cd` into the Repository: `cd Snapchat-Bottom-Navar-Option-5`
+- Clone the Repository: `git clone https://github.com/harshkumarkhatri/Snapchat-Bottom-Navbar-Option-3`
+- `cd` into the Repository: `cd Snapchat-Bottom-Navbar-Option-3`
 - If you want to have a look at the project in web then you can follow the steps given below.
   - Enable beta channel and enable web support:
 ```
